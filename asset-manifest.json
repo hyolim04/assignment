@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/hyolim04/assignment.git/static/css/main.18e11287.css",
+    "main.js": "/hyolim04/assignment.git/static/js/main.89d93ee8.js",
+    "static/js/483.0e0d5bbb.chunk.js": "/hyolim04/assignment.git/static/js/483.0e0d5bbb.chunk.js",
+    "static/js/787.939d5ca9.chunk.js": "/hyolim04/assignment.git/static/js/787.939d5ca9.chunk.js",
+    "service-worker.js": "/hyolim04/assignment.git/service-worker.js",
+    "index.html": "/hyolim04/assignment.git/index.html",
+    "main.18e11287.css.map": "/hyolim04/assignment.git/static/css/main.18e11287.css.map",
+    "main.89d93ee8.js.map": "/hyolim04/assignment.git/static/js/main.89d93ee8.js.map",
+    "483.0e0d5bbb.chunk.js.map": "/hyolim04/assignment.git/static/js/483.0e0d5bbb.chunk.js.map",
+    "787.939d5ca9.chunk.js.map": "/hyolim04/assignment.git/static/js/787.939d5ca9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18e11287.css",
+    "static/js/main.89d93ee8.js"
+  ]
+}
