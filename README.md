@@ -1,4 +1,4 @@
 ###
 
 시뮬레이션 실습을 위한 Test 입니다.  
-[시뮬레이션 결과](https://github.com/hyolim04/school.git)
+[시뮬레이션 결과](https://github.com/hyolim04/assignment.git)
